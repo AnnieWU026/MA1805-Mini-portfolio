@@ -3,8 +3,8 @@ let sound;
 let started = false;
 
 function preload() {
-  img = loadImage('https://upload.wikimedia.org/wikipedia/commons/2/26/Doll_face.jpg');
-  sound = loadSound('https://cdn.pixabay.com/download/audio/2022/03/15/audio_aa6fbbbd5d.mp3?filename=creepy-background-110086.mp3');
+  img = loadImage('puzzle.webp');
+  sound = loadSound('person-walking-in-forest-loop-419565.mp3');
 }
 
 function setup() {

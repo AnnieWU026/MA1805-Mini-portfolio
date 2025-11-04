@@ -1,1 +1,3 @@
-This is a process of an apple falling. I thought of the apple that hit Newton on the head, so I chose this theme. It makes the originally simple falling process a little more beautiful and interesting. The speed and size of the apple falling are random, but the falling process is a cycle, and the disappeared apple eventually reappears in the cycle. The biggest challenge here is to ensure that each apple drops at a different speed, but you can learn some relevant knowledge from it.
+This is a process of an apple falling. I thought of the apple that hit Newton on the head, so I chose this theme. It makes the originally simple falling process a little more beautiful and interesting. The speed and size of the apple falling are random, but the falling process is a cycle, and the disappeared apple eventually reappears in the cycle. 
+
+The biggest challenge here is to ensure that each apple drops at a different speed, but you can learn some relevant knowledge from it.
