@@ -1,6 +1,6 @@
 # MA1805-Mini-portfolio
 
-https://github.com/AnnieWU026/MA1805-Mini-portfolio?tab=readme-ov-file
+https://anniewu026.github.io/MA1805-Mini-portfolio/
 
 [01.drawing](01.drawing/index.html)
 
