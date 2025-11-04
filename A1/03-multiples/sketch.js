@@ -7,9 +7,9 @@ function setup() {
 
   for (let i = 0; i < 10; i++) {
     apples.push({
-      x: random(width),      
-      y: random(-200, 0),    
-      size: random(30, 50),    
+      x: random(width),  
+      y: random(-200, 0),
+      size: random(30, 50),
       speed: random(1, 4)     
     });
   }
@@ -31,6 +31,7 @@ function draw() {
     }
   }
 }
+
 
 function drawApple(x, y, size) {
 
