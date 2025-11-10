@@ -1,10 +1,24 @@
-let size =50;
-let x;
-let y;
+let size = 50;
 
 function setup(){
-  createCanvas(windowWidth,windowHeight);
-  x= width/2
+   createCanvas(500, 500);
+   background(255);
+   text("start", width/2, height/2);
+}
+ 
+mousePressed() ; {
+  if (started) {
+    started = true;
+    draw ();
+  } 
+    }
+    
+  function draw(){
+   noFill();
+   ellipse(mouseX, mouseY, size, size);
 }
 
-function draw(){
+
+
+
+
