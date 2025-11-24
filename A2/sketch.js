@@ -1,3 +1,11 @@
+function setup() {
+  createCanvas(500, 500);
+  playerX = width/2;
+  playerY = height-80;
+  monsterX = random(50, width-50);
+  monsterY = -50;
+}
+
 let bgImg;
 let playerX, playerY;
 let bullets = [];
@@ -15,14 +23,6 @@ let lastScore = null;
 
 function preload() {
   bgImg = loadImage("P.png");
-}
-
-function setup() {
-  createCanvas(500, 500);
-  playerX = width/2;
-  playerY = height-80;
-  monsterX = random(50, width-50);
-  monsterY = -50;
 }
 
 function draw() {
